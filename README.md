@@ -140,7 +140,7 @@ These variables are only available after ticket resolution and would lead to unr
 Customer-Support-Analysis/
 │
 ├── data/
-│   └── dataset.csv
+│   └── output.xlxs
 │
 ├── notebooks/
 │   └── eda_analysis.ipynb
